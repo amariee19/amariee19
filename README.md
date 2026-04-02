@@ -8,7 +8,7 @@ But lately, AI and ML have been pulling my attention, and I'm slowly making my w
 If an idea is interesting enough, I'll probably try to build it.
 
 ## 🛠 Tools I Use
-My main stack lives on my profile, but the things I reach for most are whatever gets the job done cleanly and fast.
+My main stack is react, typescript and tailwind, but the things I reach for most are whatever gets the job done cleanly and fast.
 I'm always picking up something new — right now that's leaning more into the AI/ML space.
 
 ## 🔭 Currently Working On
