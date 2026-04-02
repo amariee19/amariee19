@@ -1,4 +1,4 @@
-##Hey there! 👋
+## Hey there! 👋
 
 I'm **Ike Oluomachukwu**, a final-year Computer Engineering student with a thing for building on the web.
 
